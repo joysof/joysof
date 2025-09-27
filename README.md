@@ -1,5 +1,6 @@
 ## Hi there 👋
-Hi, I'm Sajib Hossen 👋 | Web Developer from Bangladesh | Passionate about coding & AI | Always learning & building cool stuff
+
+Hi, I’m Md Sajib Hossen from Bangladesh. I build dynamic web apps with React, Node.js, Express, and MongoDB. I love working on both frontend and backend to create seamless user experiences and robust APIs. Always learning, always coding!
 
 
 - 🔭 I’m currently working on web development
